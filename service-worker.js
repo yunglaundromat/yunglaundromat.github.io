@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "yunglaundromat/yunglaundromat.github.io/precache-manifest.e1b6d021f3c6a995154ef4986f24f827.js"
+  "yunglaundromat/yunglaundromat.github.io/precache-manifest.a568cdbcb3c65135cc0949ebdce1450a.js"
 );
 
 self.addEventListener('message', (event) => {

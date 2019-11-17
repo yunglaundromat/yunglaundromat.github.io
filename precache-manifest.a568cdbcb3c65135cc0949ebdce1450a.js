@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b8a1056f5390cadbd519061405c65097",
+    "revision": "7cde3adc7c73dee40d607837c4491450",
     "url": "yunglaundromat/yunglaundromat.github.io/index.html"
   },
   {
-    "revision": "b889618b52b321c3fa19",
+    "revision": "2298621bc39fca6e8dfd",
     "url": "yunglaundromat/yunglaundromat.github.io/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "c3d52dca9af3235f034f",
-    "url": "yunglaundromat/yunglaundromat.github.io/static/js/2.324b0402.chunk.js"
+    "revision": "d2b3fcffe7c19374edd9",
+    "url": "yunglaundromat/yunglaundromat.github.io/static/js/2.2af06dfb.chunk.js"
   },
   {
-    "revision": "b889618b52b321c3fa19",
-    "url": "yunglaundromat/yunglaundromat.github.io/static/js/main.ac92afa7.chunk.js"
+    "revision": "2298621bc39fca6e8dfd",
+    "url": "yunglaundromat/yunglaundromat.github.io/static/js/main.06c5506d.chunk.js"
   },
   {
     "revision": "2a210ba58a23eec115e5",

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "yunglaundromat/yunglaundromat.github.io/static/css/main.b100e6da.chunk.css",
-    "main.js": "yunglaundromat/yunglaundromat.github.io/static/js/main.ac92afa7.chunk.js",
-    "main.js.map": "yunglaundromat/yunglaundromat.github.io/static/js/main.ac92afa7.chunk.js.map",
+    "main.js": "yunglaundromat/yunglaundromat.github.io/static/js/main.06c5506d.chunk.js",
+    "main.js.map": "yunglaundromat/yunglaundromat.github.io/static/js/main.06c5506d.chunk.js.map",
     "runtime-main.js": "yunglaundromat/yunglaundromat.github.io/static/js/runtime-main.bbab5b04.js",
     "runtime-main.js.map": "yunglaundromat/yunglaundromat.github.io/static/js/runtime-main.bbab5b04.js.map",
-    "static/js/2.324b0402.chunk.js": "yunglaundromat/yunglaundromat.github.io/static/js/2.324b0402.chunk.js",
-    "static/js/2.324b0402.chunk.js.map": "yunglaundromat/yunglaundromat.github.io/static/js/2.324b0402.chunk.js.map",
+    "static/js/2.2af06dfb.chunk.js": "yunglaundromat/yunglaundromat.github.io/static/js/2.2af06dfb.chunk.js",
+    "static/js/2.2af06dfb.chunk.js.map": "yunglaundromat/yunglaundromat.github.io/static/js/2.2af06dfb.chunk.js.map",
     "index.html": "yunglaundromat/yunglaundromat.github.io/index.html",
-    "precache-manifest.e1b6d021f3c6a995154ef4986f24f827.js": "yunglaundromat/yunglaundromat.github.io/precache-manifest.e1b6d021f3c6a995154ef4986f24f827.js",
+    "precache-manifest.a568cdbcb3c65135cc0949ebdce1450a.js": "yunglaundromat/yunglaundromat.github.io/precache-manifest.a568cdbcb3c65135cc0949ebdce1450a.js",
     "service-worker.js": "yunglaundromat/yunglaundromat.github.io/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "yunglaundromat/yunglaundromat.github.io/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "yunglaundromat/yunglaundromat.github.io/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.bbab5b04.js",
-    "static/js/2.324b0402.chunk.js",
+    "static/js/2.2af06dfb.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.ac92afa7.chunk.js"
+    "static/js/main.06c5506d.chunk.js"
   ]
 }
