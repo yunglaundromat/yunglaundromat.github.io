@@ -10,6 +10,7 @@ class App extends Component {
   render() {
     return (
       <div>
+        Something's working!
         <Route exact path={`/home`} render={ (routerProps) => < Home routerProps={routerProps} />} />
       </div>
     )
