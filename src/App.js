@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div>
         Something's working!
-        <Route exact path={`/home`} render={ (routerProps) => < Home routerProps={routerProps} />} />
+        <Route exact path={'/'} render={ (routerProps) => < Home routerProps={routerProps} />} />
       </div>
     )
   }
