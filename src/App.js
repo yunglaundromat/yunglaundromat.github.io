@@ -10,7 +10,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <Route exact path={`/home`} render={ (routerProps) => < Home routerProps={routerProps} />} />
+        <Route exact path={'/'} render={ (routerProps) => < Home routerProps={routerProps} />} />
       </div>
     )
   }
